@@ -20,6 +20,7 @@ IPC module based on Net.Socket.一个基于纯Socket实现的双向IPC组件。�
 <hr/>
 <h2>TODO<h2>
 <ul>
+<li>支持在客户端上绑定和获取数据(key-value pair)</li>
 <li>支持服务器关闭和开启</li>
 <li>支持客户端主动断开和连接</li>
 <li>支持针对某个消息进行回发(reply)</li>
