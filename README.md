@@ -23,5 +23,5 @@ IPC module based on Net.Socket.一个基于纯Socket实现的双向IPC组件。�
 <ul>
 <li>支持服务器关闭和开启</li>
 <li>支持客户端主动断开和连接</li>
-<li>完善文档、提交挨骂</li>
+<li>完善文档、提交代码</li>
 </ul>
